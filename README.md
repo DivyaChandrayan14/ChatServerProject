@@ -33,7 +33,7 @@ ACTIVITY DAIGRAM:-
 
 ER DAIGRAM:-
 
-![]
+![](https://github.com/DivyaChandrayan14/ChatServerProject/blob/master/IMG_20200501_170813.jpg)
 
  
  
