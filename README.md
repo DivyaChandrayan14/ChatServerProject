@@ -21,7 +21,7 @@ Working of Project  -  Here we have two Frames one is of Client and other is of 
  
  DATA FLOW DAIGRAM:- 
  
-(https://github.com/DivyaChandrayan14/ChatServerProject/blob/master/IMG-20200501-WA0011.jpg)
+![](https://github.com/DivyaChandrayan14/ChatServerProject/blob/master/IMG-20200501-WA0011.jpg)
  
  
  
