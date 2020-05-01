@@ -31,7 +31,7 @@ ACTIVITY DAIGRAM:-
 
 ![](https://github.com/DivyaChandrayan14/ChatServerProject/blob/master/IMG_20200501_170716.jpg)
 
-ER DAIGRAM:-
+ER DAIGRAM/SEQUENTIAL DAIGRAM:-
 
 ![](https://github.com/DivyaChandrayan14/ChatServerProject/blob/master/IMG_20200501_170813.jpg)
 
