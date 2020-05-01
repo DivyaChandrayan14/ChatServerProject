@@ -27,6 +27,14 @@ DATA FLOW DAIGRAM:-
 
 ![](https://github.com/DivyaChandrayan14/ChatServerProject/blob/master/IMG_20200501_170751.jpg)
 
+ACTIVITY DAIGRAM:-
+
+![](https://github.com/DivyaChandrayan14/ChatServerProject/blob/master/IMG_20200501_170716.jpg)
+
+ER DAIGRAM:-
+
+![]
+
  
  
  
