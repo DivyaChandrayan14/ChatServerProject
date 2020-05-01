@@ -20,6 +20,7 @@ Working of Project  -  Here we have two Frames one is of Client and other is of 
  Here we use Buttons, lables , text fileds and text area features of jFrames.  Buttons send the data , labels are client and server  , text area is where messsge displays, and text fileds are where we type the message.
  
  DATA FLOW DAIGRAM:-
+ (IMG-20200501-WA0011.jpg)
  
  
  
