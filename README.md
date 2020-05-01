@@ -12,7 +12,7 @@ Tools Used -  For software requirement we need a JDK , Eclipse or Netbeans (I us
 Working of Project  -  Here we have two Frames one is of Client and other is of Server, each have a Text Fields, message area and a Send button  in both server and client frame or screen.
 •	When client sends some text message hello using text field of the client it will display on the text area of the server.
 •	Server will reply back hi to client using his text field which will display on the text area of Client
- 
+ ![](https://github.com/DivyaChandrayan14/ChatServerProject/blob/master/Capture.PNG)
 •	Now , Server asks client his name , enrol no, branch and year from the client which will display on the client text area.
 •	Client reply back all the ans of the server , which will displays on the text area of the server
 
