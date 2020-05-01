@@ -21,6 +21,7 @@ Working of Project  -  Here we have two Frames one is of Client and other is of 
 
 Name – Divya Chandrayan    
 Enroll-1810DMBCSE03288
-CSI           2nd year / 4th sem       
+CSI          
+2nd year / 4th sem       
                                                     
 
